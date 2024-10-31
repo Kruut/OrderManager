@@ -1,0 +1,59 @@
+id 6c8f8ba9-dcaf-47cb-95f2-0422e78eca39 
+weight 10,3 
+district 2560491 
+time 29-10-2024 03:15:56
+;
+id 86bc1776-14d2-4b54-8190-5b2f5ae2295a 
+weight 12,9 
+district 2560494 
+time 29-10-2024 03:20:54
+;
+id 16c3d967-0a39-41a9-9680-526c3548e053 
+weight 12,1 
+district 2560492 
+time 29-10-2024 01:07:16
+;
+id 9dd63d0d-87d9-4147-8402-5441c4be1749 
+weight 7,5 
+district 2560492 
+time 29-10-2024 15:12:15
+;
+id 47d7ba03-9fbc-44bc-bd98-1f73a4944976 
+weight 8,5 
+district 2560491 
+time 29-10-2024 21:46:21
+;
+id a5e6b0d7-e305-4b60-9a1d-8bbe869a7ca7 
+weight 2,8 
+district 2560493 
+time 29-10-2024 08:00:24
+;
+id 82253cf3-29ad-41ec-a307-3a178d137cf4 
+weight 14,6 
+district 2560493 
+time 29-10-2024 20:19:03
+;
+id bdf531d4-3125-4349-9799-48e670bf85c3 
+weight 8,2 
+district 2560493 
+time 29-10-2024 04:35:02
+;
+id 10fd9c86-7f6b-4149-91f8-df024ca8c9b3 
+weight 6,5 
+district 2560493 
+time 29-10-2024 23:36:00
+;
+id 3ad86b62-6a4c-4171-bdf2-d87ebae6debf 
+weight 13,1 
+district 2560492 
+time 29-10-2024 15:52:36
+;
+id b2842974-2caa-4d08-8b90-5bc4a103b183 
+weight 7,7 
+district 2560493 
+time 29-10-2024 23:38:57
+;
+id d6405656-a761-45c1-9dab-efaf3a085ac5 
+weight 6,5 
+district 2560493 
+time 29-10-2024 23:25:25

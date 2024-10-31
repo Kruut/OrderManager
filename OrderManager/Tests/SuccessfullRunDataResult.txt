@@ -1,0 +1,14 @@
+id 10fd9c86-7f6b-4149-91f8-df024ca8c9b3 
+weight 6,5 
+district 2560493 
+time 29-10-2024 23:36:00
+
+id b2842974-2caa-4d08-8b90-5bc4a103b183 
+weight 7,7 
+district 2560493 
+time 29-10-2024 23:38:57
+
+id d6405656-a761-45c1-9dab-efaf3a085ac5 
+weight 6,5 
+district 2560493 
+time 29-10-2024 23:25:25

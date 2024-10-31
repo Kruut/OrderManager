@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrderManager": {
+      "commandName": "Project",
+      "commandLineArgs": "_firstDeliveryDateTime=\"29-10-2024 12:00:00\" _cityDistrict=2560493 _deliveryOrder=sortedOrders.txt"
+    }
+  }
+}
